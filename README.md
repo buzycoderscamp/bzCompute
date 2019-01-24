@@ -20,8 +20,8 @@ The library supports three types of sessions as of now :
 bzCompute supports many operations as of now, the library also provides support for defining custom operations as per the requirements.
 
 ##### Numerical Operations :
-Look at *pyCompute/KernelOperations.py* to obtain list of all supported operations
+Look at *bzCompute/KernelOperations.py* to obtain list of all supported operations
 
 #### Text-Processing Operations : 
-Look at *pyCompute/text_processing/StringOperations.py* for all supported string operations.
+Look at *bzCompute/text_processing/StringOperations.py* for all supported string operations.
 
