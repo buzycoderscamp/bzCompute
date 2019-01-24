@@ -1,16 +1,16 @@
-from pyCompute.error import Exception
-from pyCompute.graph import *
-from pyCompute.algorithms import DFS, Postorder
-from pyCompute.KernelOperations import *
-from pyCompute.runtime.session import SequentialSession
-from pyCompute.runtime.domain_decomposition import MasterSession
+from bzCompute.error import Exception
+from bzCompute.graph import *
+from bzCompute.algorithms import DFS, Postorder
+from bzCompute.KernelOperations import *
+from bzCompute.runtime.session import SequentialSession
+from bzCompute.runtime.domain_decomposition import MasterSession
 
 #string processing modules :
 
 
-import pyCompute.text_processing.graph  as text 
-import pyCompute.text_processing.StringOperations as text_ops 
-from pyCompute.runtime.string_session import StringSession
+import bzCompute.text_processing.graph  as text 
+import bzCompute.text_processing.StringOperations as text_ops 
+from bzCompute.runtime.string_session import StringSession
 
 
 default_graph = Graph()

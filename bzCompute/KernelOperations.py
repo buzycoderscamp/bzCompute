@@ -1,5 +1,5 @@
-from pyCompute.graph import Operation
-import pyCompute.graph
+from bzCompute.graph import Operation
+import bzCompute.graph
 import numpy
 
 class add(Operation):

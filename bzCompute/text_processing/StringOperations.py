@@ -1,4 +1,4 @@
-from pyCompute.text_processing.graph import *
+from bzCompute.text_processing.graph import *
 import numpy
 import re
 

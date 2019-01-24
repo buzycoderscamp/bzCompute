@@ -1,5 +1,5 @@
-from pyCompute.graph import Operation
-from pyCompute.text_processing.graph import Operation as TextOp
+from bzCompute.graph import Operation
+from bzCompute.text_processing.graph import Operation as TextOp
 
 class Postorder  :
 

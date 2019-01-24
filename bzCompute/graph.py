@@ -1,5 +1,5 @@
 import numpy
-from pyCompute.error import Exception
+from bzCompute.error import Exception
 
 
 class Graph:

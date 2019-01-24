@@ -1,9 +1,9 @@
-from pyCompute.runtime.session import SequentialSession
-from pyCompute.graph import *
+from bzCompute.runtime.session import SequentialSession
+from bzCompute.graph import *
 from threading import Thread
 import copy
-from pyCompute.error import Exception
-from pyCompute.algorithms.postorder import Postorder
+from bzCompute.error import Exception
+from bzCompute.algorithms.postorder import Postorder
 
 from multiprocessing.dummy import Pool as ThreadPool
 

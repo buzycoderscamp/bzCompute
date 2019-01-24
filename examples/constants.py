@@ -1,4 +1,4 @@
-import pyCompute
+import bzCompute
 
 #define constants mat_1 and mat_2
 mat_1 = pyCompute.constant([[1,2,3],[1,2,3],[1,2,3]], name = "mat_1")

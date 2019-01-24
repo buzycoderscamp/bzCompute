@@ -1,10 +1,10 @@
-from pyCompute.algorithms.postorder import Postorder
-from pyCompute.text_processing.graph import Operation
-from pyCompute.text_processing.graph import File
-from pyCompute.text_processing.graph import array
-from pyCompute.text_processing.graph import string
+from bzCompute.algorithms.postorder import Postorder
+from bzCompute.text_processing.graph import Operation
+from bzCompute.text_processing.graph import File
+from bzCompute.text_processing.graph import array
+from bzCompute.text_processing.graph import string
 
-from pyCompute.graph import Graph
+from bzCompute.graph import Graph
 
 import numpy
 

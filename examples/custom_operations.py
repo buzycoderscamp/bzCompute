@@ -1,4 +1,4 @@
-import pyCompute
+import bzCompute
 
 import numpy
 

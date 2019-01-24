@@ -1,4 +1,4 @@
-from pyCompute.graph import Operation
+from bzCompute.graph import Operation
 
 class DFS :
 

@@ -1,10 +1,10 @@
-from pyCompute.algorithms.postorder import Postorder
-from pyCompute.graph import Operation
-from pyCompute.graph import Variable
-from pyCompute.graph import constant
-from pyCompute.graph import placeholder
+from bzCompute.algorithms.postorder import Postorder
+from bzCompute.graph import Operation
+from bzCompute.graph import Variable
+from bzCompute.graph import constant
+from bzCompute.graph import placeholder
 
-from pyCompute.graph import Graph
+from bzCompute.graph import Graph
 
 import numpy
 
